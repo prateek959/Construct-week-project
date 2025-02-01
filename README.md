@@ -10,7 +10,7 @@ This is a Fullstack application using **React** for the frontend and **Node.js w
 ---
 
 ## 🌐 **Deployed App**
-- **Frontend**: [Live App](https://playful-treacle-a085b8.netlify.app/)  
+- **Frontend**: [Live App](https://construct-week-project-mocha.vercel.app/)  
 - **Backend**: [API Endpoint](https://deployapi-ub0q.onrender.com)  
 - **Database**: [MongoDB Cluster](mongodb+srv://admin:Deepesh123@cluster0.vvyu3.mongodb.net/jio)
 
